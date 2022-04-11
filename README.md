@@ -20,8 +20,8 @@
 |:-|:-|:-|:-|
 | [sindbad](https://github.com/tooooofu24/sindbad) | 2021/09/01 | 旅行のモバイルアプリのWEB API。なかなかリリースできていない。 | ![Laravel](https://img.shields.io/badge/Laravel-8.x-brightgreen) |
 | [DMND](https://github.com/tooooofu24/DMND) | 2022/02/23 | モバイルアプリのWEB API。自分の欲しいものを募集できるアプリ。[なんちゃってクリーンアーキテクチャ](https://zenn.dev/mpyw/articles/ce7d09eb6d8117)を試してみた。 | ![Laravel](https://img.shields.io/badge/Laravel-8.x-brightgreen) |
-| [redmine-chatplus](https://github.com/tooooofu24/redmine-chatplus) | 2022/03/01 | 会社の業務予定・業務日報メール自動化ツール。SPAに挑戦。 | ![Laravel](https://img.shields.io/badge/Laravel-8.x-brightgreen) ![Vue](https://img.shields.io/badge/Vue-3-brightgreen) ![PRIME VUE](https://img.shields.io/badge/PRIMEVUE-3.x-brightgreen) |
 | [bicpema](https://github.com/tooooofu24/bicpema) | 2021/09/01 | 実験がWEBサイトでできるアプリケーション。近々SPAでリプレイス予定（[bicpema-spa](https://github.com/tooooofu24/bicpema-spa)）。 | ![Laravel](https://img.shields.io/badge/Laravel-8.x-brightgreen) ![jQuery](https://img.shields.io/badge/jQuery-3.x-brightgreen) |
+| [redmine-chatplus](https://github.com/tooooofu24/redmine-chatplus) | 2022/03/01 | 会社の業務予定・業務日報メール自動化ツール。現在はプライベートにしています。 | ![Laravel](https://img.shields.io/badge/Laravel-8.x-brightgreen) ![Vue](https://img.shields.io/badge/Vue-3-brightgreen) ![PRIME VUE](https://img.shields.io/badge/PRIMEVUE-3.x-brightgreen) |
 
 ## 技術スタック
 
